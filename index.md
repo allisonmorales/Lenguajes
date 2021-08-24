@@ -1,5 +1,5 @@
-## Welcome to GitHub Proyecto lengua Señas
-<div>Teachable Machine Image Model</div><div>Teachable Machine Image Model</div>
+## Welcome 
+<div>Teachable Machine Image Model</div>
 <button type="button" onclick="init()">Start</button>
 <div id="webcam-container"></div>
 <div id="label-container"></div>
